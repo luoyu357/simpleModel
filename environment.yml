@@ -56,7 +56,6 @@ dependencies:
   - pygments=2.8.1=pyhd8ed1ab_0
   - pyparsing=2.4.7=pyh9f0ad1d_0
   - pyrsistent=0.17.3=py39h3811e60_2
-  - python-dateutil=2.8.1=py_0
   - python_abi=3.9=1_cp39
   - pyzmq=22.0.3=py39h37b5a0c_1
   - readline=8.0=he28a2e2_2
@@ -76,9 +75,5 @@ dependencies:
   - zeromq=4.3.4=h9c3ff4c_0
   - zipp=3.4.1=pyhd8ed1ab_0
   - cudatoolkit=10.1
-  - cudnn=7.6
-  - nccl=2.4
-  - pip=20.0
   - python >= 3.9.0
-  - tensorflow-gpu=2.2
-  - argon2-cffi ==20.1.0
+  - tensorflow=2.6.2
