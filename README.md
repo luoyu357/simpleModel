@@ -10,7 +10,7 @@ If you want to run the docker image of Martin's workflow, do these steps:
 - $cwltool Martin's_workflow workflow.yml
 
 
-Create the docker image by using mic command line tool
+Create the docker image by using mic command line tool, and run it locally
 ```
 (mic1) luoyu@MacBook-Pro-452 test4 % mic notebook read https://github.com/luoyu357/simpleModel
 (mic1) luoyu@MacBook-Pro-452 test4 % cwltool Martin\'s_workflow.cwl workflow.yml
