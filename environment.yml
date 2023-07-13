@@ -46,7 +46,8 @@ dependencies:
   - parso=0.8.2=pyhd8ed1ab_0
   - pexpect=4.8.0=pyh9f0ad1d_2
   - pickleshare=0.7.5=py_1003
-  - pip=21.0.1=pyhd8ed1ab_0
+  - pip
+  - setuptools
   - prometheus_client=0.10.1=pyhd8ed1ab_0
   - prompt-toolkit=3.0.18=pyha770c72_0
   - ptyprocess=0.7.0=pyhd3deb0d_0
