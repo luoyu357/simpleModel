@@ -9,7 +9,7 @@ If you want to run the docker image of Martin's workflow, do these steps:
 - download the file of Martin's_workflow.cwl and workflow.yml
 - $cwltool Martin's_workflow workflow.yml
 
-How I create the model image:
+```
 (mic1) luoyu@MacBook-Pro-452 test4 % mic notebook read https://github.com/luoyu357/simpleModel
 (mic1) luoyu@MacBook-Pro-452 test4 % cwltool Martin\'s_workflow.cwl workflow.yml
 INFO /Library/Frameworks/Python.framework/Versions/3.8/bin/cwltool 3.1.20230425144158
@@ -84,3 +84,6 @@ INFO [job Martin%27s_workflow.cwl] completed success
     }
 }INFO Final process status is success
 (mic1) luoyu@MacBook-Pro-452 test4 % mic notebook upload-image Martin\'s_workflow.cwl
+
+
+```
