@@ -1,0 +1,6 @@
+a: 1
+b: 20
+c: 30
+input_file:
+  class: File
+  path: https://raw.githubusercontent.com/mosoriob/simpleModel-1/master/x.csv
